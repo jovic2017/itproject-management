@@ -37,9 +37,13 @@ After data init
     
 5.Monthly progress report(KPI)
 
-    You can report your work for one month, Let your leader know what you have done in the past month, your leader will examine you on the work you have done.
+    You can report your work for one month, Let your project manager know what you have done in the past month, your project manager will examine you on the work you have done.
     
-6.Working hours
+6.Report project status to senior leaders of the company
+    
+    You can report project status to company senior leaders and let him/her know overall progress of the project
+    
+7.Working hours
     
     This module recored your working hours, for example: how many days are you working, how many extra hours did you work, how many hours of vacation did you take and so on.
 
