@@ -1,6 +1,6 @@
 # itproject-manager.com  
-# IT 项目管理工具（进度管理，质量管理，成本管理，工时统计）
-# IT Project Management Tools（Progress Management, Quality Management, Cost Management, Working hours Management）
+# IT 项目管理工具（进度管理，质量管理，成本管理，工时统计，绩效考核）
+# IT Project Management Tools（Progress Management, Quality Management, Cost Management, Working hours Management，KPI management）
 
 Hello Friends, 
 I am Joe from China, let me introduce the self-developed project management tools to you.
