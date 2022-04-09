@@ -1,5 +1,8 @@
 # itproject-manager.com
 
+Hello Friends, 
+I am Joe from China, let me introduce the self-developed project management tools to you.
+
 This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and Mysql5.7). The functions mainly include organization management, authority management, requirement management, task management, progress management, quality management, working hour filling and statistics, weekly report, KPI setting, filling and approve. Beside, include system monitoring function and code generator module. Our website is https://itproject-manager.com/
 
 Now, let me show you how to use this system:
@@ -37,3 +40,6 @@ After data init
 6.Working hours
     
     This module recored your working hours, for example: how many days are you working, how many extra hours did you work, how many hours of vacation did you take and so on.
+
+
+Thanks for your reading. If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, or you can visit website: https://itproject-manager.com/
