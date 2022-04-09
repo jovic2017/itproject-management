@@ -3,7 +3,20 @@
 # IT Project Management Tools（Progress Management, Quality Management, Cost Management, Working hours Management，KPI management）
 
 Hello Friends, 
-I am Joe from China, let me introduce the self-developed project management tools to you.
+
+I am Joe from China, I have more than ten years of java development experience and have the following skills:
+
+    1. Familiar with java system development, having developed mall, chat system, gateway system, equipment monitoring system, EPR system, advertising system, banking system, etc
+    
+    2. Familiar with BDD automated testing, including desktop BDD, mobile BDD, API BDD
+    
+    3.Have some experience in mixed development of Android and IOS
+    
+    4.Have a project experience in desktop application development
+    
+    5.About three years of project management experience
+    
+Now，I want to introduce a self-developed project management tools to you.
 
 This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and Mysql5.7). The functions mainly include organization management, authority management, requirement management, task management, progress management, quality management, working hour filling and statistics, weekly report, KPI setting, filling and approve. Beside, include system monitoring function and code generator module. Our website is https://itproject-manager.com/
 
