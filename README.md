@@ -36,4 +36,4 @@ After data init
     
 6.Working hours
     
-    This module recored your working hours, for example: how many days are you working, how many hours of vacation did you take and so on.
+    This module recored your working hours, for example: how many days are you working, how many extra hours did you work, how many hours of vacation did you take and so on.
