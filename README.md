@@ -17,4 +17,8 @@ After data init
 
 2.use Technical Manager's account to break down task, sprint planning, task dashboard setting, assign task...
 
+    2.1 break down task
+    
+    2.2 sprint planning
+
 3.Now, All system user can update the task progress and time spent, report your work to your leader...
