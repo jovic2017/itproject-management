@@ -28,8 +28,12 @@ After data init
 
 4.Weekly progress report
 
-    You can report your work for one week, let your leader know what you have done for the past week.
+    You can report your work for one week, Let your leader know what you have done in the past week.
     
 5.Monthly progress report(KPI)
 
-    You can report your work for one month, your leader will examine you on the work you have done.
+    You can report your work for one month, Let your leader know what you have done in the past month, your leader will examine you on the work you have done.
+    
+6.Working hours
+    
+    This module recored your working hours, for example: how many days are you working, how many hours of vacation did you take and so on.
