@@ -11,8 +11,9 @@ After data init
 
 1.use Project director's account to do project planing，such as Requirement brain map,team member setting, KPI setting...
 
-  1.1 add project in project planning(module and date planning)
-  1.2 add project members
+    1.1 add project in project planning(module and date planning)
+  
+    1.2 add project members
 
 2.use Technical Manager's account to break down task, sprint planning, task dashboard setting, assign task...
 
