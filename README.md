@@ -22,3 +22,5 @@ After data init
     2.2 sprint planning
 
 3.Now, All system user can update the task progress and time spent, report your work to your leader...
+    
+    3.1 Enter "Update progress" from left menu, Update the progress before leaving work every day and explain what has been completed today, and report your blocking issue.
