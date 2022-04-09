@@ -54,9 +54,7 @@ If you like this tool, you can pay some money and you will get all the source co
 
 # Our Live Demo account are:
 
-    https://itproject-manager.com/
-    
-    demodeveloper/demodeveloper
+   demodeveloper/demodeveloper
 
     demomgr/demomgr
 
