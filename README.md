@@ -41,7 +41,7 @@ After data init
     
 6.Report project status to senior leaders of the company
     
-    You can report project status to company senior leaders and let him/her know overall progress of the project
+    You can report project status to company senior leaders and let him/her know overall progress of the project(Enter "Project Planning" and update project progress, and then create week/month report.)
     
 7.Working hours
     
