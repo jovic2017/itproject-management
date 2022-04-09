@@ -57,4 +57,6 @@ If you like this tool, you can pay some money and you will get all the source co
     demodeveloper/demodeveloper
 
     demomgr/demomgr
+    
+    Notice: demo account cannot update any system data
 
