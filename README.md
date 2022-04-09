@@ -6,9 +6,9 @@ Hello Friends,
 
 I am Joe from China, I have more than ten years of java development experience and have the following skills:
 
-    1. Familiar with java system development, having developed mall, chat system, gateway system, equipment monitoring system, EPR system, advertising system, banking system, etc
+    1.Familiar with java system development, having developed mall, chat system, gateway system, equipment monitoring system, EPR system, advertising system, banking system, etc
     
-    2. Familiar with BDD automated testing, including desktop BDD, mobile BDD, API BDD
+    2.Familiar with BDD automated testing, including desktop BDD, mobile BDD, API BDD
     
     3.Have some experience in mixed development of Android and IOS
     
