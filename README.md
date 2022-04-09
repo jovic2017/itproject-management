@@ -58,5 +58,5 @@ If you like this tool, you can pay some money and you will get all the source co
 
     demomgr/demomgr
     
-    Notice: demo account cannot update any system data
+    Notice: demo account are not allow to update any system data
 
