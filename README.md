@@ -51,3 +51,8 @@ After data init
 Thanks for your reading. 
 
 If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, or you can visit website: https://itproject-manager.com/
+
+Our Live Demo account are:
+demodeveloper/demodeveloper
+demomgr/demomgr
+
