@@ -24,3 +24,12 @@ After data init
 3.Now, All system user can update the task progress and time spent, report your work to your leader...
     
     3.1 Enter "Update progress" from left menu, Update the progress before leaving work every day and explain what has been completed today, and report your blocking issue.
+
+
+4.Weekly progress report
+
+    You can report your work for one week, let your leader know what you have done for the past week.
+    
+5.Monthly progress report(KPI)
+
+    You can report your work for one month, your leader will examine you on the work you have done.
