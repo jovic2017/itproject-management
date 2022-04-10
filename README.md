@@ -16,7 +16,7 @@ I am Joe from China, I have more than ten years of java development experience a
     
     5.Be able to do daily linux system operation and maintenance
     
-    6.About three years of project management experience
+    6.About five years of project management experience
     
 Now，I want to introduce a self-developed project management tools to you.
 
