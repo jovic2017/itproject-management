@@ -67,7 +67,8 @@ After data init
 
 Thanks for your reading. 
 
-If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, or you can add my Wechat
+If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, or you can add my Wechat:
+
 ![image](https://github.com/user-attachments/assets/03b1eb34-1bda-426f-bbd6-c3d6a93ebed8)
 
 
