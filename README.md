@@ -1,5 +1,3 @@
-# itproject-manager.com  
-# IT 项目管理工具（进度管理，质量管理，成本管理，工时统计，绩效考核）
 # IT Project Management Tools（Progress Management, Quality Management, Cost Management, Working hours Management，KPI management）
 
 Hello Friends, 
@@ -69,13 +67,7 @@ After data init
 
 Thanks for your reading. 
 
-If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, or you can visit website: https://itproject-manager.com/
+If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, or you can add my Wechat
+![image](https://github.com/user-attachments/assets/03b1eb34-1bda-426f-bbd6-c3d6a93ebed8)
 
-# Our Live Demo account are:
-
-    demodeveloper/demodeveloper
-
-    demomgr/demomgr
-    
-    Notice: demo account are not allow to update any system data
 
