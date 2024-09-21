@@ -6,7 +6,7 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/34b9d792-0c72-4a82-914d-3503ae9489ad)
 
 
-Now, let's take a look at the functions one by one.
+<b>Now, let's take a look at the functions one by one.</b>
 # <a href="https://github.com/jovic2017/itproject-management/blob/main/1.System.md" target="blank">1. System module</a>
 
 
