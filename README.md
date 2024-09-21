@@ -58,11 +58,13 @@ Thanks for your reading.
 
 If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com, you can add my Wechat:
 
-![image](https://github.com/user-attachments/assets/03b1eb34-1bda-426f-bbd6-c3d6a93ebed8)
+![a92e560269995e93eab9381e371abfa](https://github.com/user-attachments/assets/31becfc2-39f9-4563-953d-950e1a1736a8)
+
 
 Or you can add my Skype
 
-![b940f14db9b9937f61b9080a1182238](https://github.com/user-attachments/assets/c977f072-27e1-4d9b-9791-a22f55c8fbdf)
+![202bfe41c01e26349a1eb1fe248754a](https://github.com/user-attachments/assets/2f7e564b-6f19-49d6-ba00-2ba4dde8e331)
+
 
 Or you can add my Alipay
 
