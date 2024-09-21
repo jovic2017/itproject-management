@@ -3,7 +3,8 @@ I am Jo from China, I have more than ten years of software development and autom
 
 This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and Mysql5.7). The functions mainly include organization management, authority management, requirement management, task management, progress management, quality management, working hour filling and statistics, weekly report, KPI setting, filling and approve. Beside, include system monitoring function and code generator module. Here is a list of all the features implemented:
 ![image](https://github.com/user-attachments/assets/ea6468b3-0db4-4e05-b168-0631d12b6c11)
-![image](https://github.com/user-attachments/assets/34b9d792-0c72-4a82-914d-3503ae9489ad)
+![image](https://github.com/user-attachments/assets/faead931-3a06-46c1-a538-96b17fe4509f)
+
 
 
 <b>Now, let's take a look at the functions one by one.</b>
