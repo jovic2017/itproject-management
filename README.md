@@ -7,7 +7,7 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 
 
 Now, let's take a look at the functions one by one.
-# <a href="https://github.com/jovic2017/itproject-management/blob/main/1.System.md">System module</a>
+# <a href="https://github.com/jovic2017/itproject-management/blob/main/1.System.md" target="_blank">1. System module</a>
 
 
 Now, let me show you how to use this system:
