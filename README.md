@@ -65,6 +65,7 @@ Or you can add my Skype
 
 Or you can add my Alipay
 
-![667f3254d19814b06f99abfcb7f9327](https://github.com/user-attachments/assets/5d2e224e-d0a2-4ea0-997f-e6cccbc680bb)
+![image](https://github.com/user-attachments/assets/abb56971-c356-4a51-b44c-be8f8b441995)
+
 
 
