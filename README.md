@@ -61,7 +61,7 @@ If you like this tool, you can pay some money and you will get all the source co
 
 Or you can add my Skype
 
-![202bfe41c01e26349a1eb1fe248754a](https://github.com/user-attachments/assets/2f7e564b-6f19-49d6-ba00-2ba4dde8e331)
+![image](https://github.com/user-attachments/assets/6905b386-1c9e-461b-84c4-5fb166ce8311)
 
 Or you can add my Alipay
 
