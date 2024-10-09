@@ -10,7 +10,18 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 
 
 <b>Now, let's take a look at the modules one by one.</b>
-### <a href="https://github.com/jovic2017/itproject-management/blob/main/1.Organization.md" target="_blank">1. Organization module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/01.Organization.md" target="_blank">1. Organization module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/02.Auth.md" target="_blank">2. Auth module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/03.Requirement.md" target="_blank">3. Requirement module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/04.Task.md" target="_blank">4. Task module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/05.Progress.md" target="_blank">5. Progress module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/06.Quality.md" target="_blank">6. Quality module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/07.Cost.md" target="_blank">7. Cost module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/08.KPI.md" target="_blank">8. KPI module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/09.WorkingHour.md" target="_blank">9. WorkingHour module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/10.Developer.md" target="_blank">10. Developer module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/11.SystemMonitor.md" target="_blank">11. System Monitor module</a>
+### <a href="https://github.com/jovic2017/itproject-management/blob/main/12.BasicService.md" target="_blank">12. Basic service module</a>
 
 
 Now, let me show you how to use this system:
