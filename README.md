@@ -28,6 +28,8 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 <br><br>
 # <b>Now, let me show you how to use this system step by step:</b>
 ### 1. First Execute db_en/clear.sql to clear all business data
+![image](https://github.com/user-attachments/assets/8b85343e-0590-43a6-8c5c-7d40e70295ea)
+
 ### 2. And the use account and password superadmin/itproject2022 to login system，Create a company called Aurora Tech Inc and assign an administrator role to the company (except for company management and system resources that cannot be assigned, everything else can be assigned)
 
 
