@@ -31,6 +31,13 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/8b85343e-0590-43a6-8c5c-7d40e70295ea)
 
 ### 2. And the use account and password superadmin/itproject2022 to login system，Create a company called Aurora Tech Inc and assign an administrator role to the company (except for company management and system resources that cannot be assigned, everything else can be assigned)
+![image](https://github.com/user-attachments/assets/08215c6e-44a0-4160-81b0-9974df181bdb)
+![image](https://github.com/user-attachments/assets/330bbb02-9a63-4482-b25c-634e81dbc6a9)
+![image](https://github.com/user-attachments/assets/70baf009-bc2d-4b99-814d-57cedd3a0f1a)
+
+
+### 3. Logout superadmin and login account aurora  continue init your department,post and employee, or create other account for your colleague.
+
 
 
 
