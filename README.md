@@ -37,11 +37,11 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 
 ![image](https://github.com/user-attachments/assets/be5f87af-e68b-4694-bd7c-c663d95a5216)
 
-<b>Or you can add my Skype</b>
+# <b>Or you can add my Skype</b>
 
 ![image](https://github.com/user-attachments/assets/6905b386-1c9e-461b-84c4-5fb166ce8311)
 
-<b>Or you can add my Alipay</b>
+# <b>Or you can add my Alipay</b>
 
 ![image](https://github.com/user-attachments/assets/abb56971-c356-4a51-b44c-be8f8b441995)
 
