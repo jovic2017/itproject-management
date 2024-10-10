@@ -31,17 +31,17 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/8b85343e-0590-43a6-8c5c-7d40e70295ea)
 
 ### 2. And the use account and password superadmin/itproject2022 to login system，Create a company called Apple Inc and assign an administrator role to the company (except for company management and system resources that cannot be assigned, everything else can be assigned)
+![image](https://github.com/user-attachments/assets/bef9a004-e639-447e-84a5-512290d839b8)
+![image](https://github.com/user-attachments/assets/ea4b46d2-fe85-4efd-a398-e55f179aa9d3)
+![image](https://github.com/user-attachments/assets/20443240-e7f8-4d5e-9361-647c2e5b7d3e)
+
+
+### 3. Logout superadmin and login account apple/apple  continue init your department,post and employee, or create other account for your colleague.
 ![image](https://github.com/user-attachments/assets/c67b952b-4fa7-40b7-91dd-95c5f6720c6e)
 ![image](https://github.com/user-attachments/assets/e8a12c50-dbf6-4fe5-91c6-3fc77f0b4485)
 ![image](https://github.com/user-attachments/assets/05bbc9ed-7112-4231-a2fd-698bea97ecb7)
 ![image](https://github.com/user-attachments/assets/16963264-98ee-40bb-b7f6-82ccbbe3c7eb)
 ![image](https://github.com/user-attachments/assets/958d8f8d-d92e-4911-aec9-90731ac9f55c)
-
-
-
-
-
-### 3. Logout superadmin and login account apple/apple  continue init your department,post and employee, or create other account for your colleague.
 
 
 
