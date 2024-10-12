@@ -44,9 +44,11 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/622df554-f972-4aba-a2cd-2d60d27b2aca)
 
 
-### 4. Project requirement/flow chart design, planning, task and project member settings.
+### 4. Project requirement, planning, task and project member settings.
 ![image](https://github.com/user-attachments/assets/59b8ad21-c3f9-4aff-b490-de9be5333f6a)
 ![image](https://github.com/user-attachments/assets/0a0482d1-f9dd-440c-8a59-7dcc8af7a0fd)
+![image](https://github.com/user-attachments/assets/17548f63-1728-4f0b-9213-eb10977a3233)
+
 
 
 
