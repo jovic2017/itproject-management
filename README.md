@@ -40,7 +40,7 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/c67b952b-4fa7-40b7-91dd-95c5f6720c6e)
 ![image](https://github.com/user-attachments/assets/e8a12c50-dbf6-4fe5-91c6-3fc77f0b4485)
 ![image](https://github.com/user-attachments/assets/05bbc9ed-7112-4231-a2fd-698bea97ecb7)
-![image](https://github.com/user-attachments/assets/16963264-98ee-40bb-b7f6-82ccbbe3c7eb)
+![image](https://github.com/user-attachments/assets/4bff06f1-5903-47c1-8e23-63658e424da7)
 ![image](https://github.com/user-attachments/assets/958d8f8d-d92e-4911-aec9-90731ac9f55c)
 
 ### 4. Project planning, task and project member settings.
