@@ -108,6 +108,9 @@ After your manager approve your leave and ot application, you will see your work
 
 All code have been generated.
 
+### 11. Chinese version
+https://gitee.com/vvliker-jo/it-manager
+
 <br><br>
 
 # <b>If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com</b>
