@@ -9,7 +9,7 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 
 
 
-<b>Now, you can have a look at the modules one by one, and then I will show you how to use this tool step by step.</b>
+<b>Now, you can have a look at the modules one by one</b>
 ### <a href="https://github.com/jovic2017/itproject-management/blob/main/01.Organization.md" target="_blank">1. Organization module</a>
 ### <a href="https://github.com/jovic2017/itproject-management/blob/main/02.Auth.md" target="_blank">2. Auth module</a>
 ### <a href="https://github.com/jovic2017/itproject-management/blob/main/03.Requirement.md" target="_blank">3. Requirement module</a>
@@ -26,7 +26,7 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 
 
 <br><br>
-# <b>Now, let me show you how to use this system step by step:</b>
+# <b>Now, let me show you how to use this system step by step</b>
 ### 1. First Execute db_en/clear.sql to clear all business data
 ![image](https://github.com/user-attachments/assets/8b85343e-0590-43a6-8c5c-7d40e70295ea)
 
