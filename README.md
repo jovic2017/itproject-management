@@ -58,7 +58,10 @@ Further, you also can plan the task sprint by sprint, but this step is not neces
 
 ### 5. Update task progress, create someone weekly report to his manager, create project weekly/monthly report to company boss
 After you assign task to them, they begin to work on the task and fill the hours and detail, and they can report the task status to you at the weekend. Also you can report the project status to your boss(Senior management of the company).
-
+![image](https://github.com/user-attachments/assets/1492709c-e5e7-4a77-9cd4-ef67646a771e)
+![image](https://github.com/user-attachments/assets/b51723a4-013c-4c5a-899b-596a4af1b6ad)
+![image](https://github.com/user-attachments/assets/fafb9e45-e3c5-44cb-9144-3122f1b3021c)
+As you see, there is a common task for each project, you can fill the hour to this task such as team meeting.
 
 
 
