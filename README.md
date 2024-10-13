@@ -50,6 +50,7 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/17548f63-1728-4f0b-9213-eb10977a3233)
 ![image](https://github.com/user-attachments/assets/7fb5b600-540f-4896-971c-25ae43d49db1)
 ![image](https://github.com/user-attachments/assets/f326c203-1c67-4a85-b382-c24b0a4b7c62)
+![image](https://github.com/user-attachments/assets/7fd29326-0be2-4fa1-9ce7-0235f179c315)
 
 
 
