@@ -72,11 +72,17 @@ If you are project manager, you can update project progress status, and report t
 ![image](https://github.com/user-attachments/assets/0de50e16-3f9b-4b99-8aae-47556cc4e122)
 
 ### 6. Project quality, include test case and bug management.
+![image](https://github.com/user-attachments/assets/d070f3e5-044a-455c-a540-7302336e1622)
+
 
 
 ### 7. KPI setting, submit your KPI and review
 Normally, at the end of the month, you can fill your KPI, tell your manager what you do this month, and how you evaluate yourself, your manager will review it and give you finally KPI score.
 ![image](https://github.com/user-attachments/assets/e3945531-b7d9-43fe-a1f5-d51efe2cad2c)
+![image](https://github.com/user-attachments/assets/78d8b2ce-76c6-4c32-a07e-e5587512e2d8)
+![image](https://github.com/user-attachments/assets/bce22213-1431-4bc0-a05c-8fe85ffe6932)
+
+
 
 
 
