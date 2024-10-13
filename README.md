@@ -72,6 +72,10 @@ If you are project manager, you can update project progress status, and report t
 ![image](https://github.com/user-attachments/assets/0de50e16-3f9b-4b99-8aae-47556cc4e122)
 
 
+### 6. KPI setting, submit your KPI and review
+Normally, at the end of the month, you can fill your KPI, tell your manager what you do this month, and how you evaluate yourself, your manager will review it and give you finally KPI score.
+
+
 
 # <b>If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com</b>
 # <b>Or you can add my Wechat</b>
