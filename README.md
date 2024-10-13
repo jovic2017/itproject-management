@@ -91,6 +91,13 @@ Normally, at the end of the month, you can fill your KPI, tell your manager what
 ![image](https://github.com/user-attachments/assets/d9eec971-9fe3-44d1-a975-67f9c166a332)
 
 ### 9. Working hours
+You can apply for a leave and OT, and you can update the hours with your manager approval.
+![image](https://github.com/user-attachments/assets/dfdaee9e-d901-4ff9-bdbb-215c3c340425)
+![image](https://github.com/user-attachments/assets/ed4fc4d4-b4d7-45d1-a83d-1bb5524f4e1a)
+![image](https://github.com/user-attachments/assets/56e3e2a1-700b-4c79-9b4d-49bed5cec506)
+After your manager approve your leave and ot application, you will see your working hour as below, and you can submit it for approval.
+![image](https://github.com/user-attachments/assets/d2b9bbd3-2503-4905-923d-99d5aa461025)
+![image](https://github.com/user-attachments/assets/363338cc-7f8e-4341-b15f-2f85b957a745)
 
 ### 10. Developers
 
