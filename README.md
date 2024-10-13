@@ -104,8 +104,7 @@ After your manager approve your leave and ot application, you will see your work
 ![image](https://github.com/user-attachments/assets/56f3ea63-af14-481b-ad43-f8c21a158cd4)
 ![image](https://github.com/user-attachments/assets/29924e3c-fec8-4128-b5e5-e8e4a53dc518)
 ![image](https://github.com/user-attachments/assets/c8d5e9c9-c16e-46d0-9d05-38a73174cc58)
-![image](https://github.com/user-attachments/assets/694f0f3d-f87e-407f-b2a6-27cd954b72ef)
-
+![image](https://github.com/user-attachments/assets/d7d88bb3-106a-432c-9dfb-da374608151f)
 
 
 # <b>If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com</b>
