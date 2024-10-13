@@ -107,6 +107,8 @@ After your manager approve your leave and ot application, you will see your work
 ![image](https://github.com/user-attachments/assets/d7d88bb3-106a-432c-9dfb-da374608151f)
 
 
+<br>
+
 # <b>If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com</b>
 # <b>Or you can add my Wechat</b>
 
