@@ -61,7 +61,7 @@ After you assign task to them, they begin to work on the task and fill the hours
 ![image](https://github.com/user-attachments/assets/1492709c-e5e7-4a77-9cd4-ef67646a771e)
 ![image](https://github.com/user-attachments/assets/b51723a4-013c-4c5a-899b-596a4af1b6ad)
 ![image](https://github.com/user-attachments/assets/fafb9e45-e3c5-44cb-9144-3122f1b3021c)
-As you see, there is a common task for each project, you can fill the hour to this task such as team meeting.
+As you see, there is a common task for each project, you can fill the hour to this task such as team meeting. After filling the hours, you can export weekly report to your manager.
 
 
 
