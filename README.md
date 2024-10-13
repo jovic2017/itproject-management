@@ -61,10 +61,15 @@ After you assign task to them, they begin to work on the task and fill the hours
 ![image](https://github.com/user-attachments/assets/1492709c-e5e7-4a77-9cd4-ef67646a771e)
 ![image](https://github.com/user-attachments/assets/b51723a4-013c-4c5a-899b-596a4af1b6ad)
 ![image](https://github.com/user-attachments/assets/fafb9e45-e3c5-44cb-9144-3122f1b3021c)
-As you see, there is a common task for each project, you can fill the hour to this task such as team meeting. After filling the hours, you can export weekly report to your manager.
-
-
-
+As you see, there is a common task for each project, you can fill the hour to this task such as team meeting. After filling the hours, you can export weekly report to your manager, or export to excel and send the report to your manager by email.
+![image](https://github.com/user-attachments/assets/6474eb7c-5ecf-40dd-9f95-13e64b3a5c73)
+![image](https://github.com/user-attachments/assets/77df2e0d-c520-46e9-934d-e224a5711587)
+If you are project manager, you can update project progress status, and report the project status to your boss by week/month
+![image](https://github.com/user-attachments/assets/1a69605b-92fd-4003-b7dc-3d7e6f47f243)
+![image](https://github.com/user-attachments/assets/18e0136b-24cc-4abc-9e71-7c6a24c1d218)
+![image](https://github.com/user-attachments/assets/25186e35-1ef3-40ac-81d2-ff0c1c7a17df)
+![image](https://github.com/user-attachments/assets/9729a9ea-35f2-46d1-ba8b-8074c48badae)
+![image](https://github.com/user-attachments/assets/0de50e16-3f9b-4b99-8aae-47556cc4e122)
 
 
 
