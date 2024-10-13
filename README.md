@@ -90,6 +90,10 @@ Normally, at the end of the month, you can fill your KPI, tell your manager what
 ![image](https://github.com/user-attachments/assets/710a5988-9c90-4fa7-a603-d0053e1b48bc)
 ![image](https://github.com/user-attachments/assets/d9eec971-9fe3-44d1-a975-67f9c166a332)
 
+### 9. Working hours
+
+### 10. Developers
+
 
 # <b>If you like this tool, you can pay some money and you will get all the source code. you can contact me through my personal email: 465230373@qq.com</b>
 # <b>Or you can add my Wechat</b>
