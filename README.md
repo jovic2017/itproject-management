@@ -97,7 +97,8 @@ You can apply for a leave and OT, and you can update the hours with your manager
 ![image](https://github.com/user-attachments/assets/56e3e2a1-700b-4c79-9b4d-49bed5cec506)
 After your manager approve your leave and ot application, you will see your working hour as below, and you can submit it for approval.
 ![image](https://github.com/user-attachments/assets/5a30a918-35ac-4708-920a-be992db7957d)
-
+![image](https://github.com/user-attachments/assets/7b3d2c94-0cc8-4402-8017-f0a7581a1b8a)
+![image](https://github.com/user-attachments/assets/486cdc70-98e7-44cc-830f-7b848b14dce0)
 
 ### 10. Developers
 
