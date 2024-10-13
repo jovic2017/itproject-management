@@ -51,6 +51,10 @@ This is an IT Project Management Tools, Develop with Java(JKD8,SpringBoot2.2 and
 ![image](https://github.com/user-attachments/assets/7fb5b600-540f-4896-971c-25ae43d49db1)
 ![image](https://github.com/user-attachments/assets/f326c203-1c67-4a85-b382-c24b0a4b7c62)
 ![image](https://github.com/user-attachments/assets/7fd29326-0be2-4fa1-9ce7-0235f179c315)
+Further, you also can plan the task sprint by sprint, but this step is not necessary
+![image](https://github.com/user-attachments/assets/d15c2af3-1e00-4690-9cb1-ce8b992f4b53)
+![image](https://github.com/user-attachments/assets/3182b1cf-81b8-4c5a-a3f4-2853916b7855)
+
 
 ### 4. Update task progress, create someone weekly report to his manager, create project weekly/monthly report to company boss
 After you assign task to them, they begin to work on the task and fill the hours and detail, and they can report the task status to you at the weekend. Also you can report the project status to your boss(Senior management of the company).
